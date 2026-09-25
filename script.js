@@ -6,7 +6,7 @@ function login()
 if(username=="" || pass=="" )
 {
 
-  alert("enter any values")
+  alert("enter username and password")
     
 }
 
